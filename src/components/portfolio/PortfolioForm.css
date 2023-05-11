@@ -1,0 +1,27 @@
+
+.row{
+    padding:30px;
+}
+hhh{
+    text-align: center;
+    margin-left: 250px;
+    size-adjust: auto;
+
+
+}
+
+.bd{
+    background-color:var(--black);
+}
+
+label{
+    color:white;
+}
+body {
+    padding: 0;
+    margin: 0;
+    font-family: var(--sans);
+    background-color: var(--black);
+    color: var(--white);
+    font-size: var(--font-size);
+}
